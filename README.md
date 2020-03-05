@@ -79,3 +79,6 @@ Stanford-Awesome is a work in progress. When I come across interesting additions
 * Caltrain app, Marguerite app, library catalog website
 * Roble Arts Gym
 * https://github.com/AchoArnold/discount-for-student-dev#readme
+
+---
+[[(onsite,in progress)]]
