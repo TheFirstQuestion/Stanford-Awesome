@@ -81,4 +81,4 @@ Stanford-Awesome is a work in progress. When I come across interesting additions
 * https://github.com/AchoArnold/discount-for-student-dev#readme
 
 ---
-[[(onsite,in progress)]]
+_____onsite,in progress______
